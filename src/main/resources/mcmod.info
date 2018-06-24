@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gabuild",
+  "name": "GABuild",
+  "description": "A mod for building things with console commands.",
+  "version": "0.1.0",
+  "mcversion": "1.7.10",
+  "url": "https://www.geekagestudios.com",
+  "updateUrl": "",
+  "authorList": ["saintajora"],
+  "credits": "saintajora",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
