@@ -81,14 +81,12 @@ public class GABuildMod {
     	logger.debug("GA Builder: registering commands");
         event.registerServerCommand(new BuildRectangularCommand());
         event.registerServerCommand(new BuildClearCommand());
-        event.registerServerCommand(new BuildRectangularBuildingCommand());
         event.registerServerCommand(new BuildRingHorizCommand());
         event.registerServerCommand(new BuildRingVertXCommand());
         event.registerServerCommand(new BuildRingVertZCommand());
         event.registerServerCommand(new BuildCylinderOnXCommand());
         event.registerServerCommand(new BuildCylinderOnYCommand());
         event.registerServerCommand(new BuildCylinderOnZCommand());
-        event.registerServerCommand(new BuildLineCommand());
         event.registerServerCommand(new BuildSphereCommand());
         event.registerServerCommand(new BuildSquareHorizCommand());
         event.registerServerCommand(new BuildSquareVertXCommand());
